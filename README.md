@@ -11,3 +11,6 @@ Provided inputs in format such as python app.py 1 2 3, we get the necessary answ
 
 The script involves checking the nnumbers for being numeric as well as exactly 3 numbers. It checks for the 'teen' numbers and 15,16 for following the necessary conditions.
 
+The unittest can be run by this command, "python test.py"
+
+The task requires no extra libraries, hence the empty requirements.txt
